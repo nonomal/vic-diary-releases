@@ -1,6 +1,6 @@
-# Markdown Diary
+# 维克日记
 
-Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
+维克日记是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
 ![image](assets/images/markdown-diary.png)
 
 ## 软件特性
@@ -32,4 +32,4 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 - [城通网盘](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
 
 ## 更新日志
-- [Markdown Diary 更新日志](https://iwpy5b9mc7u.feishu.cn/wiki/NBUlwldFFi9A1sklIDicGE4NnSg)
+- [维克日记 更新日志](https://iwpy5b9mc7u.feishu.cn/wiki/NBUlwldFFi9A1sklIDicGE4NnSg)
