@@ -1,7 +1,7 @@
 # 维克日记
 
 维克日记是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
-![image](assets/images/markdown-diary.png)
+![image](assets/images/screenshot.png)
 
 ## 软件特性
 
