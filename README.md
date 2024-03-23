@@ -15,21 +15,9 @@
 
 ## 下载地址
 
-### 一键下载
-
-- [Windows](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.16-setup.exe)
-- [MacOS](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.16-x64-mac.dmg)
-- [Linux(DEB)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.16_amd64.deb)
-- [Linux(RPM)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.16.x86_64.rpm)
-
-### 备用下载
-
 > 包含历史各个版本以及系统架构(ARM等)
 
-- [Gitee](https://gitee.com/stevobm/md-diary-release/releases/tag/latest)
-- [Github](https://github.com/stevobm/md-diary-releases/releases/latest)
-- [百度网盘](https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd) 提取码: c2rd
-- [城通网盘](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
-
-## 更新日志
-- [维克日记 更新日志](https://iwpy5b9mc7u.feishu.cn/wiki/NBUlwldFFi9A1sklIDicGE4NnSg)
+- [Gitee](https://gitee.com/vo-soft/vic-diary-release/releases)
+- [Github](https://github.com/vo-soft/vic-diary-releases/releases)
+- [百度网盘](https://pan.baidu.com/s/1buGnzFHBog-AFJhVIQicvQ?pwd=xi3u) 提取码: xi3u
+- [城通网盘](https://url43.ctfile.com/d/3173743-60448486-923c16?p=3701) 访问密码：3701
