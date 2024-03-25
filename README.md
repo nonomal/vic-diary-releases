@@ -15,9 +15,17 @@
 
 ## 下载地址
 
-> 包含历史各个版本以及系统架构(ARM等)
+### 最新版本下载
 
+> 包含各系统架构版本(ARM等)
+
+- [WorkDrive](https://workdrive.zohopublic.com.cn/folder/qwvtha87ad103ba6444dbbad0c22c7de74137?layout=list)(推荐)
 - [Gitee](https://gitee.com/vo-soft/vic-diary-release/releases)
+
+### 全部版本下载
+
+> 包含历史所有发布版本
+
 - [Github](https://github.com/vo-soft/vic-diary-releases/releases)
 - [百度网盘](https://pan.baidu.com/s/1buGnzFHBog-AFJhVIQicvQ?pwd=xi3u) 提取码: xi3u
 - [城通网盘](https://url43.ctfile.com/d/3173743-60448486-923c16?p=3701) 访问密码：3701
