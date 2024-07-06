@@ -21,7 +21,7 @@
 > 包含各系统架构版本(ARM等)
 
 - [WorkDrive](https://workdrive.zohopublic.com.cn/folder/qwvtha87ad103ba6444dbbad0c22c7de74137?layout=list)(推荐)
-- [Gitee](https://gitee.com/vo-soft/vic-diary-release/releases)
+- [Gitee](https://gitee.com/vo-soft/vic-diary-release/releases/tag/latest)
 
 ### 全部版本下载
 
