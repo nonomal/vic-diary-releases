@@ -1,6 +1,6 @@
 # 维克日记
 
-维克日记（[官网链接](https://vic-diary.zeabur.app/)）
+维克日记（[官网链接](https://vic-diary.netlify.app/)）
 是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
 ![image](assets/images/screenshot.png)
 
