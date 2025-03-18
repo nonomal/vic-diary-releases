@@ -28,5 +28,5 @@
 > 包含历史所有发布版本
 
 - [Github](https://github.com/vo-soft/vic-diary-releases/releases)
-- [百度网盘](https://pan.baidu.com/s/1buGnzFHBog-AFJhVIQicvQ?pwd=xi3u) 提取码: xi3u
+- [百度网盘](https://pan.baidu.com/s/1t_JIbcJ_ZPK5D9o0NLJpDQ?pwd=7k2p) 提取码: 7k2p
 - [城通网盘](https://url43.ctfile.com/d/3173743-60448486-923c16?p=3701) 访问密码：3701
